@@ -6,8 +6,7 @@
 
 <div align="center">
 
-Software Engineer passionate about crafting elegant, scalable systems.
-Bridging frontend artistry, backend architecture, infrastructure, and intelligent systems.
+Software Engineer, hooked on AI.
 
 </div>
 
