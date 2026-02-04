@@ -22,9 +22,6 @@ Bridging frontend artistry, backend architecture, infrastructure, and intelligen
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 **Backend**
@@ -33,7 +30,7 @@ Bridging frontend artistry, backend architecture, infrastructure, and intelligen
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
@@ -49,8 +46,6 @@ Bridging frontend artistry, backend architecture, infrastructure, and intelligen
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 
 </div>
 
@@ -63,10 +58,10 @@ Bridging frontend artistry, backend architecture, infrastructure, and intelligen
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=gongpyung&show_icons=true&hide_border=true&bg_color=00000000&title_color=E0E0E0&icon_color=A0A0A0&text_color=C0C0C0&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=gongpyung&show_icons=true&hide_border=true&theme=transparent&title_color=E0E0E0&icon_color=A0A0A0&text_color=C0C0C0&count_private=true" alt="GitHub Stats" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongpyung&layout=compact&hide_border=true&bg_color=00000000&title_color=E0E0E0&text_color=C0C0C0" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongpyung&layout=compact&hide_border=true&theme=transparent&title_color=E0E0E0&text_color=C0C0C0" alt="Top Languages" />
 </td>
 </tr>
 </table>
