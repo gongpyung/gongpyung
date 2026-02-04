@@ -56,10 +56,10 @@ Software Engineer, hooked on AI.
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=gongpyung&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gongpyung&theme=github_dark" alt="GitHub Stats" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongpyung&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gongpyung&theme=github_dark" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -68,7 +68,7 @@ Software Engineer, hooked on AI.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gongpyung&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gongpyung&theme=github_dark&utcOffset=9" alt="Productive Time" />
 
 </div>
 
