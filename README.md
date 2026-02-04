@@ -56,10 +56,10 @@ Software Engineer, hooked on AI.
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=gongpyung&show_icons=true&hide_border=true&theme=transparent&title_color=E0E0E0&icon_color=A0A0A0&text_color=C0C0C0&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=gongpyung&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongpyung&layout=compact&hide_border=true&theme=transparent&title_color=E0E0E0&text_color=C0C0C0" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongpyung&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -68,7 +68,7 @@ Software Engineer, hooked on AI.
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gongpyung&theme=dark&hide_border=true&background=00000000&stroke=404040&ring=606060&fire=A0A0A0&currStreakLabel=E0E0E0&sideNums=C0C0C0&currStreakNum=E0E0E0&dates=808080&sideLabels=C0C0C0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gongpyung&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
