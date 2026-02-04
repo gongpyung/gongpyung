@@ -49,31 +49,6 @@ Software Engineer, hooked on AI.
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gongpyung&theme=github_dark" alt="GitHub Stats" />
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gongpyung&theme=github_dark" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gongpyung&theme=github_dark&utcOffset=9" alt="Productive Time" />
-
-</div>
-
----
-
 ### Connect
 
 <div align="center">
