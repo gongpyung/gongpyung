@@ -11,8 +11,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> AI 도구 생태계를 한국어 커뮤니티에 연결하는 것에 관심이 많습니다.
-
 ## Projects
 
 - 📋 **[ChangeLog.kr](https://changelog.kr)** — AI 도구 업데이트를 한국어로 자동 번역하는 서비스 (6시간 주기 감지/번역/배포)
