@@ -14,7 +14,7 @@
 ## Projects
 
 - 📋 **[ChangeLog.kr](https://changelog.kr)** — AI 도구 업데이트를 한국어로 자동 번역하는 서비스 (6시간 주기 감지/번역/배포)
-- 🫘 **[운수대콩](https://github.com/gongpyung/unsu-daekong)** — 귀여운 UI의 웹 기반 로또 번호 생성기
+- 🫘 **[loddo](https://github.com/gongpyung/unsu-daekong)** — 귀여운 UI의 웹 기반 로또 번호 생성기
 - 📖 **[LENA Docs](https://gongpyung.github.io)** — Hugo 기반 제품 기술 문서 사이트
 
 ## GitHub Activity
