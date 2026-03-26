@@ -14,8 +14,8 @@
 ## Projects
 
 - 📋 **[ChangeLog.kr](https://changelog.kr)** — AI 도구 업데이트를 한국어로 자동 번역하는 서비스 (6시간 주기 감지/번역/배포)
-- 🍀 **[운수대콩](https://loddo.kr)** — 귀여운 UI의 웹 기반 로또 번호 생성기
-- 🧑‍🍳 **[레시픽](https://recipick-lemon.vercel.app)** — 유튜브 영상에서 레시피를 추출하고 저장하는 AI 기반 레시피 앱
+- 🍀 **[loddo](https://loddo.kr)** — 귀여운 UI의 웹 기반 로또 번호 생성기
+- 🧑‍🍳 **[Recipick](https://recipick-lemon.vercel.app)** — 유튜브 영상에서 레시피를 추출하고 저장하는 AI 기반 레시피 앱
 
 ## GitHub Activity
 
